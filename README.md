@@ -1,1 +1,0 @@
-# Graficadora-de-experimentos-fisicos
